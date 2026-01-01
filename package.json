@@ -45,9 +45,9 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "body-parser": "^1.20.0",
+    "body-parser": "^1.20.4",
     "dotenv": "^16.0.0",
-    "express": "^4.17.3",
+    "express": "^4.22.0",
     "mongoose": "^6.2.11",
     "tslib": "~2.3.1"
   },
